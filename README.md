@@ -22,7 +22,7 @@ socket: Handles possible network issues during email existence checks.
 Installation
 
 Clone the repository:
-git clone https://github.com/ChaitanyaShirse/email-verification-tool.git
+git clone [https://github.com/ChaitanyaShirse/Email-Authentication-System].git
 
 Navigate to the project directory:
 cd email-verification-tool
